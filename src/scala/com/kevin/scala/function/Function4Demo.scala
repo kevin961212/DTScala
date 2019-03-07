@@ -1,4 +1,4 @@
-package com.kevin.scala
+package com.kevin.scala.function
 
 import java.util.Date
 

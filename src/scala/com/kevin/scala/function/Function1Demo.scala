@@ -1,4 +1,4 @@
-package com.kevin.scala
+package com.kevin.scala.function
 
 /**
   * 函数中的可变参数，指定函数的最后一个参数是可以重复的，即不需要指定函数参数的个数，可以向函数传入可变长度参数列表

@@ -1,4 +1,4 @@
-package com.kevin.scala
+package com.kevin.scala.function
 
 /**
   * 定义方法是用def
